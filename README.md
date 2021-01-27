@@ -1,26 +1,20 @@
 </p>
 <p align="center">
-<a href="#"><img title="Arelbot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEWSTORYBOT" src="https://img.shields.io/badge/NEWSTORYBOT-WA--BOT-brightgreen"></a>
 <p align="center">
-<a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfzvx12%2Ftermux-whatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/NEWSTORYBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/NEWSTORYBOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/NEWSTORYBOT/termux-whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NEWSTORYBOT/termux-whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/NEWSTORYBOT/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NEWSTORYBOT/termux-whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/NEWSTORYBOT/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NEWSTORYBOT/termux-whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNEWSTORYBOT%2Ftermux-whatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
 </p>
 
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/102708092-ece61880-42d2-11eb-831b-f3909d67921e.jpg" width="320">
+    <img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="320">
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
- **Hai** 👋🏻
-
-**Termux whatsapp bot Update**
-
-Cobain juga nih
-
-[TERMUX WHATSAPP BOT V2](https://github.com/NazwaS/termux-whatsapp-bot)
+# Hai 👋🏻
 
 Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
@@ -28,19 +22,12 @@ Re-upload numpang ganti nama gabakal bikin lu pro
 * "Wahai orang-orang yang beriman, mengapakah kamu mengatakan sesuatu yang tidak kamu kerjakan?, Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."
 (QS ash-Shaff: 2-3).
 
-#### Give me Stars ⭐ to support
-
-#### Jangan lupa pilih watch agar kalian bisa dapat notifikasi ketika update
-
-<div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
-</div>
+**Give me Start ⭐ to support**
 
 **Semua fitur bergantung pada api, jika mengalami error berarti api yang di pakai sedang bermasalah**
 
-
 ### Sebelum install tes fitur dulu disini
-* [TES BOT](https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst)
+* [TES BOT](https://chat.whatsapp.com/IpbMVdYghd5EYgF8oZxxup)
 
 ## Alat
 
@@ -60,8 +47,6 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * [Apivhtear](https://vhtear.com/)
 * [Apitobz](https://tobz-api.herokuapp.com/)
 
-**Masuk grup tes bot di atas untuk mendapatkan apikey gratis 🙂**
-
 ## Penginstalan
 
 **Jika pertama kali membuka termux lakukan perintah berikut :**
@@ -74,8 +59,8 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 ```
 **Lalu clone repo**
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/NEWSTORYBOT/wa-bot
+> cd wa-bot
 ```
 **Lanjutkan dengan**
 ```bash
@@ -106,7 +91,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * Apikey tobz
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/NEWSTORYBOT/wa-bot/blob/master/index.js/#L13)
 
 ## Settings di termux
 
@@ -126,11 +111,11 @@ Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.j
 
 • Klik edit
 
-<img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104452742-00388b00-55d6-11eb-9521-2ec9bf9fc07a.jpg" width="320">
+<img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104452742-00388b00-55d6-11eb-9521-2ec9bf9fc07a.jpg" width="320">
 
  **Bagian bagian yang perlu di edit yang berwarna Ungu**
 
-   <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104451377-0a598a00-55d4-11eb-8d84-1ec950793b8f.jpg" width="480">
+   <img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104451377-0a598a00-55d4-11eb-8d84-1ec950793b8f.jpg" width="320">
 
  **Jika sudah klik save dan dan keluar dari menu mc ketik**
 
@@ -153,29 +138,29 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 
 • Pilih folder **Select Document**
 
-<img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593554-71457480-56a2-11eb-9cb5-198c201fde62.png" width="150">
+<img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104593554-71457480-56a2-11eb-9cb5-198c201fde62.png" width="320">
 
  **Lalu klik Tanda kanan atas**
 
 • Maka akan muncul seperti ini
 
-<img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593713-a5b93080-56a2-11eb-9fd0-ed539bdf6d18.png" width="150">
+<img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104593713-a5b93080-56a2-11eb-9fd0-ed539bdf6d18.png" width="320">
 
 • Dan pilih termux
 
  **Pilih file yang mau di edit**
 
-<img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593943-05174080-56a3-11eb-915b-4fb195e794d3.png" width="150">
+<img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104593943-05174080-56a3-11eb-915b-4fb195e794d3.png" width="320">
 
 • Klik tanda 💾 untuk save
 
- **Jika sudah klik save dan keluar dari aplikasi acode**
+ **Jika sudah klik save dan dan keluar dari aplikasi acode**
 
  **Masuk ke aplikasi termux lalu jalankan bot**
 
 ## Tutorial video
 
-* [Youtube](https://youtu.be/VqSer_W1yvI)
+* [Youtube](belum buat tutorialnya)
 
 ## FITUR
 
@@ -309,13 +294,10 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | Donasi|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
+* [Instagram](https://www.instagram.com/sarjananet/)
+* [Facebook](hilang)
+* My whatsapp bot [NEW STORY BOT](https://wa.me/6285730894775)
 
-## Partnership
-* [`NazwaS`](https://github.com/NazwaS/NazwaS)
-* [`re-Destro`](https://github.com/re-Destro)
 
 ## Terimakasih untuk
 * [`Fdciabdul`](https://github.com/fdciabdul)
@@ -324,3 +306,5 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 * [`Alfiansx`](https://github.com/alfiansx)
 * [`Bintang73`](https://github.com/Bintang73)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`mrfzvx12`](https://github.com/mrfzvx12/termux-whatsapp-bot)
+* [`NEWSTORYBOT`](https://github.com/NEWSTORYBOT/wa-bot)
