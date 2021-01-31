@@ -15,6 +15,7 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
+const apistory = 'apistory';
 const ovo = '083845200107';
 const pulsa = '083845200107';
 const dana = '083845200107';
@@ -25,7 +26,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:STORY BOT admin\n' // Nama kamu
             + 'ORG:NEW STORY BOT;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6285730894775:+62 857-3089-4775\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=6283851902588:+62 838-5190-2588\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -79,7 +80,7 @@ conn.on('user-presence-update', json => console.log(json.id + ' presence is => '
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : ''
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@mrf.zvx`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@sarjananet`)
 })
 
 conn.on('message-new', async(m) =>
