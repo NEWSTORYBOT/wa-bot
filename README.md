@@ -13,7 +13,7 @@
 <div align="center">
     <a href='https://postimg.cc/pywb81y9' target='_blank'><img src='https://i.postimg.cc/pywb81y9/20-01-04-bot-9-2-512.png' border='0' alt='20-01-04-bot-9-2-512'/></a>
     <h3> SUPPORT ME WITH GIVE STARS </h3>
-
+<div align="center">
     <img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="320">
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
@@ -299,7 +299,7 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 ## Contacts
 * [Instagram](https://www.instagram.com/sarjananet/)
 * [Facebook](hilang)
-* My whatsapp bot [NEW STORY BOT](https://wa.me/6285730894775)
+* My whatsapp bot [NEW STORY BOT](https://wa.me/6283851902588)
 
 
 ## Terimakasih untuk
