@@ -11,7 +11,9 @@
 </p>
 
 <div align="center">
-    <a href='https://postimg.cc/8FJjy0d2' target='_blank'><img src='https://i.postimg.cc/8FJjy0d2/IMG-20210209-195245.jpg' border='0' alt='IMG-20210209-195245'/></a>
+    <a href='https://postimg.cc/pywb81y9' target='_blank'><img src='https://i.postimg.cc/pywb81y9/20-01-04-bot-9-2-512.png' border='0' alt='20-01-04-bot-9-2-512'/></a>
+    <h3> SUPPORT ME WITH GIVE STARS </h3>
+
     <img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="320">
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
