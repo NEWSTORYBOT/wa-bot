@@ -11,6 +11,7 @@
 </p>
 
 <div align="center">
+    <a href='https://postimg.cc/8FJjy0d2' target='_blank'><img src='https://i.postimg.cc/8FJjy0d2/IMG-20210209-195245.jpg' border='0' alt='IMG-20210209-195245'/></a>
     <img alt="NEWSTORYBOT" src ="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="320">
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
